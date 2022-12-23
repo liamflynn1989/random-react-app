@@ -1,7 +1,7 @@
 {
   "name": "random-react-app",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://github.com/liamflynn1989/random-react-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
